@@ -6,13 +6,13 @@ I mess around with ideas until they actually work.
 
 ---
 
-## 👀 If you want to see what I’ve been building (some are private)
+##  If you want to see what I’ve been building (some are private)
 
 - https://luna-stellar.com
 
 ---
 
-## 🚀 Stuff I've built
+##  Stuff I've built
 
 - Game systems in Unity (UI flow, audio, backend integration)
 - Full-stack apps (React + Cloudflare Workers)
@@ -20,7 +20,7 @@ I mess around with ideas until they actually work.
 
 ---
 
-## ⚙️ What I use
+##  What I use
 
 - React / Vite / Tailwind
 - Cloudflare / APIs / AWS / GCP
