@@ -1,4 +1,4 @@
-## Hey there! 👋
+##
 
 I'm Kristian,
 
@@ -29,7 +29,7 @@ I mess around with ideas until they actually work.
 
 ---
 
-## ⚡ Fun stuff
+##  Fun stuff
 
 - I lie :)
 - I build random things when bored
