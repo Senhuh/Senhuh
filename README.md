@@ -1,55 +1,31 @@
-##
+# Hey, I'm Kristian
 
-I'm Kristian,
+I build web apps, automation tools, AI projects, and game systems.
 
-I mess around with ideas until they actually work.
+Most of my work starts with me trying to solve something for myself, then turning it into a proper project.
 
----
+## What I'm working on
 
-##  If you want to see what I’ve been building (some are private)
+- LunaStellar and the projects under it
+- AI assistants using local models, n8n, Discord, and Supabase
+- Full-stack apps with React, TypeScript, and Cloudflare
+- Unity systems and backend integrations
+- Applied AI and computer vision
 
-- https://luna-stellar.com
+## Some things I've built
 
----
+- AI assistants with memory and tool use
+- Automation workflows for email, tasks, and reports
+- Unity systems for authentication, leaderboards, audio, and purchases
+- Web apps and internal tools
+- A coconut leaf disease detection project using computer vision
 
-##  Stuff I've built
+## Tools I use
 
-- Game systems in Unity (UI flow, audio, backend integration)
-- Full-stack apps (React + Cloudflare Workers)
-- AI integrations (LLMs, small automation tools)
+`Python` `TypeScript` `React` `C#` `Unity` `n8n` `Supabase` `Cloudflare` `AWS`
 
----
+## Website
 
-##  What I use
+[luna-stellar.com](https://luna-stellar.com)
 
-- React / Vite / Tailwind
-- Cloudflare / APIs / AWS / GCP
-- Unity (C#)
-- Python (getting into it more with ML)
-
----
-
-##  Fun stuff
-
-- I lie :)
-- I build random things when bored
-- Sometimes I overcomplicate things just to understand them
-
----
-
-> Don’t really stop at “idea”
-
-<!--
-**Senhuh/Senhuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
--  I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--  Fun fact: ...
--->
+-The limit of talent is your body-
